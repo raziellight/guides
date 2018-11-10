@@ -14,19 +14,22 @@ This model is potentially highly effectiving and developing and reaching solutio
 
 
 The following three fields develop, guide, and provide feedback. These are the departments based off the scientific method. These are like the car that stumbles along until we find direction and get somewhere.
-Would you like to collect feedback and research and set out guidelines that we can follow to help people better collectively reach our goals? Think consulting, surveys, accounting, finance, legal help, intellectual property, budgeting, analysis, statistics, philosophy, science, health & safety standards, trends, stress management guidance, risk management, performance appraisal, planning, forecasting, strategy, pricing, auditing, historian, information integrity.
-Would you like to use guidelines to help develop products that can be used to benefit? Think R&D, innovation, design, ergonomics, health & safety, project management, packaging, problem solving, manufacturing, maintenance and repair, web development and programming, technology, literature, art.
-Would you like to test out products you're interested in and provide feedback on them? Think quality assurance, critic, appraisal, reviews.
+
+- Would you like to collect feedback and research and set out guidelines that we can follow to help people better collectively reach our goals? Think consulting, surveys, accounting, finance, legal help, intellectual property, budgeting, analysis, statistics, philosophy, science, health & safety standards, trends, stress management guidance, risk management, performance appraisal, planning, forecasting, strategy, pricing, auditing, historian, information integrity.
+- Would you like to use guidelines to help develop products that can be used to benefit? Think R&D, innovation, design, ergonomics, health & safety, project management, packaging, problem solving, manufacturing, maintenance and repair, web development and programming, technology, literature, art.
+- Would you like to test out products you're interested in and provide feedback on them? Think quality assurance, critic, appraisal, reviews.
 
 
 The following two fields help get the process flowing. These are like the fuel that powers the car.
-Would you like to help connect people with people and products? Think recruitment, scout, outsourcing, teams, logistics, supply chain management, donors, solicitation, sales, facilities, home working, joint ventures, taxation, retirement.
-Would you like to connect people with information about causes and products? Think marketing, memes, branding, presentation, advertising, web marketing, art, news, public speaking, printing, broadcasting.
+
+- Would you like to help connect people with people and products? Think recruitment, scout, outsourcing, teams, logistics, supply chain management, donors, solicitation, sales, facilities, home working, joint ventures, taxation, retirement.
+- Would you like to connect people with information about causes and products? Think marketing, memes, branding, presentation, advertising, web marketing, art, news, public speaking, printing, broadcasting.
 
 
 The following two fields help keep it the process flowing smoothly. These help with creation and destruction.These are like the grease that allows it to keep flowing smoothly or grind it to a halt. 
-Would you like to help brainstorm, research, help people gather information, and get people going on their path? Think training, coaching, reference librarian, education, motivation, participation, guides, entrepreneurs, organizers, analytical writer, career planning, job hunting.
-Would you like to help people get along with one another? Think contracts, conflict management, negotiation, compensation, win/win, culture, oversight, communication, employee relations, public relations, security.
+
+- Would you like to help brainstorm, research, help people gather information, and get people going on their path? Think training, coaching, reference librarian, education, motivation, participation, guides, entrepreneurs, organizers, analytical writer, career planning, job hunting.
+- Would you like to help people get along with one another? Think contracts, conflict management, negotiation, compensation, win/win, culture, oversight, communication, employee relations, public relations, security.
 
 
 # Decentralized Power and effective process.

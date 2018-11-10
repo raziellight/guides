@@ -101,7 +101,9 @@ Did you find this guide when you needed it?
 
 # Share your username, niche and mission:
 
+Share [here](https://etherpad.net/p/statementsofvision).
 
+---
 
 > Username: raz 
 > 
