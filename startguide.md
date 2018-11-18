@@ -97,7 +97,7 @@ Is there anything that you read that isn't clear? What is it?
 Did you find this guide when you needed it?
 
 
-# Share your username, niche and mission:
+# Share your username, purpose and mission:
 
 Share [here](https://etherpad.net/p/statementsofvision).
 
