@@ -10,6 +10,7 @@ What should an organization for social good do to achieve Its goals?
 
 - We need to grow support for the organization by connecting people to other people, resources, and information about the organization and Its causes. This will help it grow.
 - Develop the ability to easily startup and get good organizations going by training people, clarifying roles, and granting easy access to infrastructure. And we need to develop the ability to resolve conflict and shutdown bad and corrupt organizations and processes. This requires complete transparency. This will keep us functioning in good order and help make us resilient.
+- Give and collect feedback and write feedback guides.
 - Crowdsource and develop solutions for a specific cause.
 
 # What is the feedback loop?
