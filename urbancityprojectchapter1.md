@@ -33,7 +33,7 @@ Companies are better than employees at bargaining future employees to accept low
 
 ## Economies create overconsumption and overwork
 
-Everyone is demanded to work or starve, so markets continually have to be created to keep people employed, and consumers constantly have to want to buy people's goods to keep people employed. This makes a situation where everyone is working a lot and consuming a lot. Produce addictive low quality products are rewarded with profit and keep us consuming junk. For those that don't have a safety net and are desperate, they may turn to scams and crime. This is all turning civiliation into socities of discontentment and long work hours.
+Everyone is demanded to work or starve, so markets continually have to be created to keep people employed, and consumers constantly have to want to buy people's goods to keep people employed. This makes a situation where everyone is working a lot and consuming a lot. Produce addictive low quality products are rewarded with profit and keep us consuming junk. For those that don't have a safety net and are desperate, they may turn to scams and crime. This is all turning civiliation into socities of discontentment and long work hours. When you don't own the means of production, you are in a state where you consantly have to gain the debt of society to get basic neccesities.
 
 ## Residential and consumables are a trap.
 
