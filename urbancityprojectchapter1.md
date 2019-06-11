@@ -83,13 +83,29 @@ Cities are designed for transportation not human beings. Cities pack as many peo
 
 What we need in society is to reduce time cost, reduce money cost, simplify, increase quality, health, low maintenance automation, kindness, safety, enabling by smart purchases, and decentralizing ownership of production.
 
+The idea is to be aware of our current economic flaws and experiment to see if we can find a better way collectively. The idea is for so many people to see the value in a better alternative way of life, and face the problems together collectively and draw on each other's inspiration to propell us towards a better economic way of life.
+
+The starting idea is to find a small plot of land close to the city and be the first of many to start an alternative urban way of life. Instead of buying a large residential home that enslaves us, buy a cheap one with 3d printers or prefab to reclaim freedom. 
+
+It's to produce consumable things like energy and food that typically eat up our money. It will be attempted to produce these things without using up too much of our time. This will maximize our total wealth of money, time, and goods. We will buy things that are too complex to produce ourselves or use up too much time-- things like robos, automation, and time consuming crops.
+
+Producing food has to be biointensive so that cities of the future wouldn't be so spread out as to impair transportation. Production will be simplified and automated as much as possible to reduce human energy costs so we can diversify. We'll all own our own production potential, and there will be people raising awareness, people teaching, tending to production, or some combination of the three.
+
+Surplus will be sold for money, and the money will be used to buy things that produce that are far too complex or difficult to produce ourselves. Also a pool of money may be created to create a basic safety net so that no one has to worry about starving. The safety net will also help people in need ready for a change to adopt this lifestyle. It would also be smart to advocate for a safety net from government for all of the economy.
+
+The initial startup costs will be kept down so that people are able to adopt this lifestyle. People will be more self sufficient, so they'll be more willing to help struggling newcomers for free. And it will benefit all of us if newcomers are successful because it will fundamentally change the way we do economics to a safer more enabling system. All the details will be simplified and made as efficient as possible and shared to keep it easy for newcomers to adopt. Also everything will be shared and social meetups developed to help create a community around this idea.
+
+The most important thing in this idea isn't to simplify or make money or become self sufficient. Sure, all those things are neccesary to see a change. The most important thing is for a community to develop and we experiment and learn from each others progress. It only matters for one lucky individual in the middle of no where if one person figures this problem out. But one person isn't going to change the economy. He will die and the economy will continue to be dysfunctional for future generations.
+
+Now i will go into a bit more detail about what this means.
+
 ## Work less not more
 
 Instead of everyone creating more jobs and more work hours, we should be reducing the number of jobs people have to do. And we need to share the work, so everyone is working less total. Low maintence processes should be chosen whenever possible so time cost is reduced. 
 
 ## Use money carefully and only when needed. And simplify.
 
-Money should be used as a method of exchange when we depend on a highly complex task to make life easier, not of a liability for consumables like energy and food. Specialization has to be simplified so that energy costs are reduced. This further lowers the cost of complex goods, and makes it possible to more easily master more than one thing.
+Money should be used as a method of exchange when we depend on a highly complex task to make life easier that can produce again and again, not for consumables like energy, food, and rent, that slowly drain our resources and keep us dependent. Simplifying complex systems will make us masters at more than one thing. It will reduce the time to proficiency. It will make education several months instead of several years. It will make well beaten paths that people can adopt more easily. In short, it will make us more content.
 
 ## Mitigate risks of paywalls to promote kindness and quality
 
@@ -99,11 +115,11 @@ As risks reduce people will spend more time making quality goods, because there 
 
 # Increase productive potential
 
-There should be an abundance of decentralized simple productive potential. This potential will ensure that we get what we need without having to rely on money. Because everyone will have this potential, people are more likely to be kind and help a neighbour with the basics if they are disadvantaged. This will also set things free that should be free, like information, because we don't depend on it for basic neccessities. Prices for the basics will reduce even further because they're so easy to access. Money will be spent on those complex processes that simplify this productive potential.
+There should be an abundance of decentralized simple productive potential. This potential will ensure that we get what we need without having to rely on money. Because everyone will have this potential, people are more likely to be kind and help a neighbour with the basics if the neighbour is disadvantaged. This will also set things free that should be free, like information, because we don't depend on it for basic neccessities. Prices for the basics will reduce even further because they're so easy to access. Money will be spent on those complex processes that simplify this productive potential. 
 
 ## Reimagine the economy. Reimagine cities.
 
-To do this we need to do several things.  We need to reimagine cities so that density of population for travel is balanced with direct access to land for urban farming and homesteading. We need to be more diverse in skillsets for basic consumable neccesities--food, water, energy, waste management, and money. We need to reimagine the information we consume to simplify so that the barrier to entry for complex tasks are reduced, so we can gain access to a modest amount of complex goods that maintain and produce, like solar panels, 3d printers, robots, and inexpensive 3d printed homes. We need close access to everything we could want to reduce commute times and energy expenditure. Homes need to stop being so heavy on consumption and become little oasises of wealth and giving.
+Cities are designed around transportation currently. Transportation is only one aspect of being human. Cities neglecct the whole human. More holistic cities will better take care of people. We need to reimagine cities so that density of population for travel is balanced with direct access to land for urban farming and homesteading. We need to be more diverse in skillsets for basic consumable neccesities--food, water, energy, waste management, and money. We need to reimagine the information we consume to simplify so that the barrier to entry for complex tasks are reduced, so we can gain access to a modest amount of complex goods that maintain and produce, like solar panels, 3d printers, robots, and inexpensive 3d printed homes. We need close access to everything we could want to reduce commute times and energy expenditure. Homes need to stop being so heavy on consumption and become little oasises of wealth and giving.
 
 ## This may only be possible today
 
@@ -117,9 +133,11 @@ I live a pretty comfortable life now. I'm horrible at making money and feel inse
 
 I have enough money saved to try to do this if i'm very frugal. But i'm not rich by any means, so i will have to manage my money carefully and be realistic about how much poor people have to spend.
 
-I also have enough smarts and determination to keep at things that are important enough and inspire me. So i need to continue to be inspired by this project to take the next step. I feel this cause is so important to society and my own financial well being that i'm more likely to return to this project again and again. But i need to keep trying.
+I also have enough smarts and determination to keep at things that are important enough and inspire me. So i need to continue to be inspired by this project to take the next step. I feel this cause is so important to society and my own financial well being that i'm more likely to return to this project again and again. But i need to keep trying. I know if i lose my motivation i'm done for so this could be potentially a huge stumbling point. I need small repeatable tasks that i can iterative improvements upon that i find rewarding.
 
-I'm really good at simplifying, but i'm not always the best communicator. I have a lot going for me that allows me the chance to use my time to experiment and figure things out that could pave a simplified path for others.
+I'm really good at simplifying. I have a lot going for me that allows me the chance to use my time to experiment and figure things out that could pave a simplified path for others.
+
+I'm not the best communicator, so i will have to keep modifying what i write until something polished develops. If i don't get the idea across well enough, the whole thing is done for.
 
 Is this feasable? Am i getting in over my head? Only time will tell.
 
@@ -164,23 +182,61 @@ I've also started a reddit group to discuss ideas like this called r/decentraliz
 Hope to have you with me.
 
 
-## Math
+# Math
 
-working poor
-1000 dollars a month 2 bed basement
-646 shared
+* How much money could the poor have to spend?
 
 11 dollars minimum wage 35 hours 52 weeks
 20000
+
+1000 dollars a month 2 bed basement
+646 per month shared accomidation
+So 500-646. From rentfaster.
 
 7752 rent
 70 840 cell
 106 1272 bus pass
 2520 food 7 dollars a day
 300 clothes
-12684
-a year for an individual
-7000 a year
+= 12684 total spent
 
-5 years 35000
+7000 savings per year
+
+5 years saving up 35000
 so see how much i can do for 35000
+
+$30*10 books = $300
+
+* How much free time does the working poor have to spend?
+
+168 hours in a week
+168-40 hours working = 128
+128-14 hours commute = 114
+114-70 hours sleeping = 44 hours free time
+44-14 hours resting and eating = 30 hours free time per week
+roughly 4 hours per day of free time to invest in learning about
+
+About 4 hours per day.
+1440 hours per year to spend learning about a way out of their situation.
+
+* What resources does someone in this situation need to get out that don't use too much of that money or time? Books or otherwise?
+
+3 hours per 100 pages for slow reading.
+
+15 hours per 500 page book
+
+book/15 hours * 1440 hours = 96 books
+
+All time won't be spent reading, but if we can reduce the number of books one has to read to about 10 max that would be a good chunk of simplified knowledge.
+
+They need books and information that cover
+- Biointensive urban subsistance farming
+- Power production
+- Home building
+- Waste management
+- Several books in their trade
+- Community development and management
+- A book detailing the problems and possible solutions for society
+- Automation and 3d printing
+- Math
+- Directory of contacts
