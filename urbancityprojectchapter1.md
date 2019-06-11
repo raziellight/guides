@@ -1,10 +1,10 @@
 # The problem
 
+See [reddit community.](https://www.reddit.com/r/decentralizedeconomy/) for resources.
+
 ## Poverty and the working poor
 
 Poverty lines are defined in canada as an individual who makes less than $22,133. But poverty need not be only measured in money. There are three times of wealth--support from people, time, and goods. People who have little money, time, and bad goods are the poorest in all these areas. The working poor are some of poorest among us because they are not only poor financially, they use up a lot of the time working as well. Some use their money on the cheapest least nutritious foods, parties, drugs, and distraction in the form of entertainment. In a situation like this, a person has to leverage every available resource to escape this vicious trap. If they are fortunate they have some degree of wealth or support in one of these areas, but without all three it takes more than hard work to escape. Then truely the only good way out is some kind of assistance.
-
-
 
 in 2018 7% of people in alberta are making minimum wage. That's 1 in 14. In ontario, where it's the worst, it's at 17% which is 1 in 6.[source cbc][1] Working 40 hours a week at 13 dollars an hour that's $27,000 per year. At $11 dollars that's $22880.
 
@@ -113,7 +113,7 @@ There should be a safety net to reduce the risks of putting goods behind paywall
 
 As risks reduce people will spend more time making quality goods, because there will be less incentive to keep churning out products to sell ever more. The quality/quantity ratio will go up. And we will only be consuming the bare minimum that we need, and the bare minimum should be the best quality to reduce the impact on the environment. We will take pride in offering something that is really needed rather than something that trys to addict people.
 
-# Increase productive potential
+## Increase productive potential
 
 There should be an abundance of decentralized simple productive potential. This potential will ensure that we get what we need without having to rely on money. Because everyone will have this potential, people are more likely to be kind and help a neighbour with the basics if the neighbour is disadvantaged. This will also set things free that should be free, like information, because we don't depend on it for basic neccessities. Prices for the basics will reduce even further because they're so easy to access. Money will be spent on those complex processes that simplify this productive potential. 
 
@@ -125,7 +125,7 @@ Cities are designed around transportation currently. Transportation is only one 
 
 We are still living with the effects of old technology and old ideas. We have built an infrastructure that isn't serving us anymore. Today you can build a home with a construction 3d printer for as low as $4000 for a one bedroom house. And $20000 for a larger house. Solar panels continue to get cheaper. Farming technology is increases. Robots are getting better to reduce our time. Information could be free today if producers didn't feel threatened.
 
-## The challenge
+# The challenge
 
 The challenge is can i create an urban homestead that doesn't wear me down and stress me out or use up all of my time, use money so frugally that someone who is working poor could afford it, creating as much production potential as possible in the simplest way, be kind by paving the way for others by and making it as simple as it should be to provide hope and get out of this economic dystopia, and releasing frequently to encourge a community of people sharing and helping each other succeed. The challenge is to create an alternative city life that people can adopt to get out of poverty and that makes us richer in time, money, community, and goods.
 
