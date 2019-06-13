@@ -81,17 +81,25 @@ Cities are designed for transportation not human beings. Cities pack as many peo
 
 # The Vision
 
-What we need in society is to reduce time cost, reduce money cost, simplify, increase quality, health, low maintenance automation, kindness, safety, enabling by smart purchases, and decentralizing ownership of production.
+What is a more balanced midground to offset this economic dystopia?
 
-The idea is to be aware of our current economic flaws and experiment to see if we can find a better way collectively. The idea is for so many people to see the value in a better alternative way of life, and face the problems together collectively and draw on each other's inspiration to propell us towards a better economic way of life.
+We can try to reduce time cost, reduce money cost, simplify, increase quality, health, low maintenance automation, kindness, safety, enabling by smart purchases, and decentralizing ownership of production.
 
-The starting idea is to find a small plot of land close to the city and be the first of many to start an alternative urban way of life. Instead of buying a large residential home that enslaves us, buy a cheap one that costs 4k to 50k with construction 3d printers or prefab. This will free us from the plight of unproductive residential homes.
+If people are aware of our current economic flaws and experiment to see if we can find a better way collectively, we can develop a more balanced lifestyle. The idea is for so many people to see the value in a better alternative way of life, and face the problems together collectively and draw on each other's inspiration to propell us towards a better more balanced economic way of life.
+
+What's your alternative lifestyles you can think up that would shift the economy to a more balanced better state?
+
+The starting idea would be to research alternatives, and experiment with gardening, production, robotics, and anything that may help create an alternative balanced lifestyle.
+
+It may grow to finding a small plot of land close to the city and be the first of many to start an alternative urban way of life. Instead of buying a large residential home that enslaves us, buy a cheap one that costs 4k to 50k with construction 3d printers or prefab. This will free us from the plight of unproductive residential homes.
 
 And then to use the rest of the money to produce consumable things like energy and food that typically eat up our money close to home. It will be attempted to produce these things without using up too much of our time. This will maximize our total wealth of money, time, and goods. We will buy things that are too complex to produce ourselves or use up too much time-- things like robos, automation, and time consuming crops.
 
 Producing food has to be biointensive so that cities of the future wouldn't be so spread out as to impair transportation. Production will be simplified and automated as much as possible to reduce human energy costs so we can diversify. We'll all own our own production potential, and there will be people raising awareness, people teaching, tending to production, or some combination of the three.
 
 Surplus will be sold for money, and the money will be used to buy things that produce that are far too complex or difficult to produce ourselves. Also a pool of money may be created to create a basic safety net so that no one has to worry about starving. The safety net will also help people in need ready for a change to adopt this lifestyle. It would also be smart to advocate for a safety net from government for all of the economy.
+
+How can we best put to use our current resources and free time?
 
 The initial startup costs will be kept down so that people are able to adopt this lifestyle. People will be more self sufficient, so they'll be more willing to help struggling newcomers for free. And it will benefit all of us if newcomers are successful because it will fundamentally change the way we do economics to a safer more enabling system. All the details will be simplified and made as efficient as possible and shared to keep it easy for newcomers to adopt. Also everything will be shared and social meetups developed to help create a community around this idea.
 
