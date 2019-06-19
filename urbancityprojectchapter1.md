@@ -27,7 +27,9 @@ In 2015, the total median household income in Canada was approximately $70,300 b
 
 
 https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2017026-eng.htm
+
 https://www.cbc.ca/news/canada/calgary/minimum-wage-alberta-july-2018-numbers-profiles-1.4740923
+
 https://www.ctvnews.ca/canada/census-children-make-up-one-quarter-of-4-8m-canadians-living-in-poverty-1.3587472
 
 ## Low pay is systemic
