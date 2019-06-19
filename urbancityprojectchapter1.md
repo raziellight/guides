@@ -2,6 +2,11 @@
 
 Wealth today is usually measured in dollars. This only measures how much society is indebted to you or how much you owe society. This fails to take into account how much free time we have, the quality of our social lives, and the quality of the goods we consume. Everyone wants to be rich, but I will argue that we are actually very poor because we are working longer, making less, and consuming more junk as wages don't keep up with production. The 1% are getting richer, and the rest of us are poor. Technology and the world is changing faster than ever, and on the horizon are many movements and projects that have the potential to fundamentally change this around. But no one is talking about the big picture. This document aims to give you the bigger picture of being rich and some current movements that aim to tackle this problem so you will be armed with what you need to integrate this shift in technology and society into your own life.
 
+
+# The refuge
+
+Buddhism has an interesting idea called the triple gem. The triple gem is a refuge in this life. They are the sangha, the buddha, and the dharma. You can generalize this idea to three kinds of riches: kind people, time, and goods. If people have very little money, time, and bad products, then they would be considered poor in all three areas. The working poor is an example of this which is a state of adversity. This makes a very tough situation for them because they have no leverage in any area. On the other hand, kindness in the form of programs like food banks and basic income, automation, and simplified education and other goods along with decentralization that empowers people would set people free. This idea together would be a triple gem of the economy--an economic refuge. Now i'll go deeper into each of these.
+
 # Kindness
 
 ## Poverty and the working poor
